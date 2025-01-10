@@ -15,3 +15,10 @@ heres an example of code i can do
 print("Hello, World")
 
  ```
+
+### list of my ranked coding languages
+
+<ol>
+  <li>Python</li>
+  <li>Java</li>
+</ol>
